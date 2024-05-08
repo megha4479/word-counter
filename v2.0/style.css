@@ -1,0 +1,86 @@
+body{
+     background-color: #dae8ea;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.contact-parent{
+    background: rgb(175, 212, 229);
+    display:flex;
+    margin:80px 0;
+}
+
+.contact-child{
+    display:flex;
+    flex:1;
+}
+
+.child1{
+    background:url("https://th.bing.com/th/id/R.e3b1aaf06f371249dc0d0161d0e3c867?rik=C3YxKY9RmC3fLQ&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f22%2f14%2ft8XUQP.jpg&ehk=oFjwUq%2b546B2Ckb6UI7q1PjWF1xcv%2fmBdxGuNYSp8kA%3d&risl=&pid=ImgRaw&r=0");
+    background-size:cover;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    color:#fff;
+    padding:100px 0;
+}
+
+.child1 p{
+    padding-left:20%;
+    font-size:20px;
+}
+
+.child1 p span{
+    font-size:16px;
+    color:#9df2fd;
+}
+
+.child2{
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.inside-contact{
+    width:90%;
+    margin:0 auto;
+}
+
+.inside-contact h2{
+    text-transform:uppercase;
+    text-align:center;
+    margin-top:50px;
+}
+
+.inside-contact h3{
+    text-align:center;
+    font-size:16px;
+    color:#0085e2;
+}
+
+
+
+    .child1{
+        display:none;
+    }
+
+    .child2{
+        background-image:linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7)), url("https://cdn.pixabay.com/photo/2019/06/28/00/17/architecture-4303279_1280.jpg");
+        background-size:cover;
+    }
+
+    .inside-contact input, .inside-contact textarea{
+        background-color:#fff;
+    }
+}
