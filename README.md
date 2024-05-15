@@ -4,9 +4,9 @@
 
 | Member Name | Student ID   |
 |-------------|--------------|
-| <span style="color: #ff6347;">MAYANK</span> | <span style="color: #ff6347;">2310990735</span> |
-| <span style="color: #007bff;">MEGHA</span> | <span style="color: #007bff;">2310990736</span> |
-| <span style="color: #ff69b4;">MEHAK GARG</span> | <span style="color: #ff69b4;">2310990737</span> |
+| MAYANK      | 2310990735   |
+| MEGHA       | 2310990736   |
+| MEHAK GARG  | 2310990737   |
 
 ## Project Introduction
 The title of our project is “WORD COUNTER”. This project has been done by a group of three members naming Mayank, Mehak, and Megha with distinct responsibilities each. With our perpetual efforts, we were able to complete this project according to evaluations.
