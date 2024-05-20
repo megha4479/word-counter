@@ -36,11 +36,11 @@ This can be very useful for various applications such as writing essays, reports
 
 | S.NO. | Feature                      | Details                                          | Deadline   | Duration | Status      |
 |-------|------------------------------|--------------------------------------------------|------------|----------|-------------|
-| 1     | Planning and Research        | Research on word counting techniques and tools   | 2024-05-2 | 4 days  | Done        |
-| 2     | HTML Structure Design        | Designing the basic HTML structure for the project| 2024-05-6 | 3days  | Done        |
+| 1     | Planning and Research        | Research on word counting techniques and tools   | 2024-05-02 | 4 days  | Done        |
+| 2     | HTML Structure Design        | Designing the basic HTML structure for the project| 2024-05-06 | 3 days  | Done        |
 | 3     | CSS Styling Implementation   | Implementing CSS to style the project            | 2024-05-09 | 2 days  | Done        |
 | 4     | JavaScript Functionality     | Implementing word counting logic with JavaScript| 2024-05-11 | 4 days  | Done        |
 | 5     | Testing and Debugging        | Thorough testing and debugging of the project    | 2024-05-17 | 2 days  | Done |
-| 6     | Final Review and Documentation| Reviewing final project and preparing documentation| 2024-05-18 | 1 days  | Done    |
-| 7     | Project Presentation         | Preparing for and delivering the project presentation| 2024-05-21 | 1 days   | Done    |
+| 6     | Final Review and Documentation| Reviewing final project and preparing documentation| 2024-05-18 | 1 day  | Done    |
+| 7     | Project Presentation         | Preparing for and delivering the project presentation| 2024-05-21 | 1 day   | Done    |
 
