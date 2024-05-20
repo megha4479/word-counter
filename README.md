@@ -31,3 +31,16 @@ This can be very useful for various applications such as writing essays, reports
 - **Manager:** Oversees the project, coordinates team efforts, and ensures project milestones are met accordingly.
 - **Developer:** Implements the word counter using HTML, CSS, and JavaScript. Responsible for functionality and responsiveness.
 - **Tester:** Conducts thorough testing of the word counter to identify and report any bugs and issues.
+
+## Project Timeline
+
+| S.NO. | Feature                      | Details                                          | Deadline   | Duration | Status      |
+|-------|------------------------------|--------------------------------------------------|------------|----------|-------------|
+| 1     | Planning and Research        | Research on word counting techniques and tools   | 2024-02-15 | 15 days  | Done        |
+| 2     | HTML Structure Design        | Designing the basic HTML structure for the project| 2024-02-25 | 10 days  | Done        |
+| 3     | CSS Styling Implementation   | Implementing CSS to style the project            | 2024-03-05 | 10 days  | Done        |
+| 4     | JavaScript Functionality     | Implementing word counting logic with JavaScript| 2024-03-15 | 10 days  | Done        |
+| 5     | Testing and Debugging        | Thorough testing and debugging of the project    | 2024-03-25 | 10 days  | In progress |
+| 6     | Final Review and Documentation| Reviewing final project and preparing documentation| 2024-04-05 | 10 days  | Pending     |
+| 7     | Project Presentation         | Preparing for and delivering the project presentation| 2024-04-10 | 5 days   | Pending     |
+
