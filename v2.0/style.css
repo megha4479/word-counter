@@ -15,7 +15,7 @@ h2 {
     box-sizing:border-box;
 }
 
-.contact-parent{
+contact-parent{
     background: rgb(175, 212, 229);
     display:flex;
     margin:80px 0;
