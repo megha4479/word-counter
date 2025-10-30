@@ -13,7 +13,7 @@ The title of our project is “WORD COUNTER”. This project has been done by a 
 
 The purpose of a ‘word counter’ project is to count the number of words in a given text or document. The goal is typically to provide a simple and convenient tool for users to determine the word count in their content.
 
-This can be very useful for various applications such as writing essays, reports, or blog posts where word limit or specific word counts are important. Word counters help users like us to keep track of their writing progress and ensure they meet specified guidelines.
+This can be very useful for various applications such as writing essays, reports, or blog posts where word limit or specific word counts are important. Word counters help users like us to keep track of their writing progress and ensure they meet specified guidelines..
 
 ## Technical Details
 1. **HTML & CSS:** In our project, HTML, CSS & Bootstrap have played a major role. It provided a structure of our web page and the distinct blog pages, as well as defining the layout and organization of the content in the same.
